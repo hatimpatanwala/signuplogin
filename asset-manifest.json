@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/signuplogin/static/css/main.203e2753.chunk.css",
-    "main.js": "/signuplogin/static/js/main.1f351640.chunk.js",
-    "main.js.map": "/signuplogin/static/js/main.1f351640.chunk.js.map",
+    "main.js": "/signuplogin/static/js/main.27141e18.chunk.js",
+    "main.js.map": "/signuplogin/static/js/main.27141e18.chunk.js.map",
     "runtime-main.js": "/signuplogin/static/js/runtime-main.1041019a.js",
     "runtime-main.js.map": "/signuplogin/static/js/runtime-main.1041019a.js.map",
     "static/css/2.0624914a.chunk.css": "/signuplogin/static/css/2.0624914a.chunk.css",
     "static/js/2.1a30426a.chunk.js": "/signuplogin/static/js/2.1a30426a.chunk.js",
     "static/js/2.1a30426a.chunk.js.map": "/signuplogin/static/js/2.1a30426a.chunk.js.map",
     "index.html": "/signuplogin/index.html",
-    "precache-manifest.6c6f27dcc0efc7d4589bfb79f99b0118.js": "/signuplogin/precache-manifest.6c6f27dcc0efc7d4589bfb79f99b0118.js",
+    "precache-manifest.de75b6f37dacad1021cba3207c3507cd.js": "/signuplogin/precache-manifest.de75b6f37dacad1021cba3207c3507cd.js",
     "service-worker.js": "/signuplogin/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/signuplogin/static/css/2.0624914a.chunk.css.map",
     "static/css/main.203e2753.chunk.css.map": "/signuplogin/static/css/main.203e2753.chunk.css.map"
