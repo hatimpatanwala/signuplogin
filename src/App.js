@@ -3,7 +3,7 @@ import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
-import Login from "./components/Login";
+import Login from "/signuplogin/components/Login";
 import SignUp from "./components/SignUp";
 import ForgotPassword from './components/ForgotPassword';
 import Loginsuccess from './components/Loginsuccess';
